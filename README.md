@@ -3,6 +3,8 @@ We collect a thrips dataset consisting of 5,618 images and 47,726 annotations.
 
 Our team collected the dataset from July to September 2024 in the Plant Growth Chamber at Jingchu Sci-tech Park, Jingchu University of Technology, using potted _Spathiphyllum floribundum 'Clevelandii'_. The temperature in the growth chamber was 25℃, with humidity levels ranging from 50% to 70%, and light intensity was 10,000 lux. The thrips species identified on the infected leaves was _Megalurothrips usitatus_.
 
+The dataset annotation includes three annotation formats: LabelMe, COCO, and YOLO.
+
 ## Dataset Download
 We provide the download link for Quark Netdisk: 
 [download link](https://pan.quark.cn/s/4eefd0c22b1b) (Obtain the download password via email)
